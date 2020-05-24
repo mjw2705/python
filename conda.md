@@ -10,3 +10,5 @@ jupyter notebook에 가상환경 커널 추가
 
 # 3. 가상환경 제거
 `conda env remove -n 가상환경명`
+
+# 4. conda install
