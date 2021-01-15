@@ -6,5 +6,5 @@
 5. `git remote add origin https://github.com/mjw2705/grad_project.git`
 6. `git remote -v`
 7. `git add 파일`
-8. `git commit -m "first commit"
+8. `git commit -m "first commit"`
 9. `git push -u origin master`
